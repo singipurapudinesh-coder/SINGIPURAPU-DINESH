@@ -65,26 +65,6 @@ Currently focused on developing practical projects, improving problem-solving sk
 
 ## 🚀 Featured Projects
 
-### 🤖 JARVIS AI Assistant
-
-Voice-controlled intelligent personal assistant that automates daily tasks and improves productivity.
-
-**Tech Stack:** Python • Speech Recognition • Automation • APIs
-
-🔗 Repository: https://github.com/singipurapudinesh-coder/Python-Projects
-
----
-
-### 🍽️ AI Food Inspection System
-
-AI-powered system to inspect food quality and improve food safety.
-
-**Tech Stack:** Python • AI • Computer Vision • Machine Learning
-
-🔗 Repository: https://github.com/singipurapudinesh-coder/Python-Projects
-
----
-
 ### 📈 Real-Time Stock Market Dashboard
 
 Live stock tracking dashboard with interactive analytics and visualizations.
@@ -110,6 +90,16 @@ Deep Learning-based image classification system that automatically identifies an
 Automated data extraction, scheduling, and exporting system for collecting and organizing website data efficiently.
 
 **Tech Stack:** Python • BeautifulSoup • Requests • Pandas • CSV/Excel
+
+🔗 Repository: https://github.com/singipurapudinesh-coder/Python-Projects
+
+---
+
+### 🤖 JARVIS AI Assistant
+
+Voice-controlled intelligent personal assistant that automates daily tasks and improves productivity.
+
+**Tech Stack:** Python • Speech Recognition • Automation • APIs
 
 🔗 Repository: https://github.com/singipurapudinesh-coder/Python-Projects
 
